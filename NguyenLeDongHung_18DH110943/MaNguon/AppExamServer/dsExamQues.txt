@@ -1,0 +1,6 @@
+EQsA|TEST1|Test 1|hung3|1|2|3
+EQsA|TEST2|test2|hung3|0|0|30
+EQsA|TEST5|TestIQ|hung3|0|15|0
+EQsA|TEST3|TestIQ 2|hung3|0|30|0
+EQsA|TEST4|TestIQ3|hung3|0|1|30
+EQsA|TESTTHI|Thi Toan|user3|0|1|30

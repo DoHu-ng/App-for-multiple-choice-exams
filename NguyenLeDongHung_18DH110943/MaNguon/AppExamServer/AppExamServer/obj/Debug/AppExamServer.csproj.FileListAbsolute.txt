@@ -1,0 +1,14 @@
+H:\Study at school\Lập trình mạng\Project\AppExamServer\AppExamServer\bin\Debug\AppExamServer.exe.config
+H:\Study at school\Lập trình mạng\Project\AppExamServer\AppExamServer\bin\Debug\AppExamServer.exe
+H:\Study at school\Lập trình mạng\Project\AppExamServer\AppExamServer\bin\Debug\AppExamServer.pdb
+H:\Study at school\Lập trình mạng\Project\AppExamServer\AppExamServer\obj\Debug\AppExamServer.csprojAssemblyReference.cache
+H:\Study at school\Lập trình mạng\Project\AppExamServer\AppExamServer\obj\Debug\AppExamServer.csproj.CoreCompileInputs.cache
+H:\Study at school\Lập trình mạng\Project\AppExamServer\AppExamServer\obj\Debug\AppExamServer.exe
+H:\Study at school\Lập trình mạng\Project\AppExamServer\AppExamServer\obj\Debug\AppExamServer.pdb
+H:\Study at school\Lập trình mạng\NguyenLeDongHung_18DH110943\MaNguon\AppExamServer\AppExamServer\bin\Debug\AppExamServer.exe.config
+H:\Study at school\Lập trình mạng\NguyenLeDongHung_18DH110943\MaNguon\AppExamServer\AppExamServer\bin\Debug\AppExamServer.exe
+H:\Study at school\Lập trình mạng\NguyenLeDongHung_18DH110943\MaNguon\AppExamServer\AppExamServer\bin\Debug\AppExamServer.pdb
+H:\Study at school\Lập trình mạng\NguyenLeDongHung_18DH110943\MaNguon\AppExamServer\AppExamServer\obj\Debug\AppExamServer.csprojAssemblyReference.cache
+H:\Study at school\Lập trình mạng\NguyenLeDongHung_18DH110943\MaNguon\AppExamServer\AppExamServer\obj\Debug\AppExamServer.csproj.CoreCompileInputs.cache
+H:\Study at school\Lập trình mạng\NguyenLeDongHung_18DH110943\MaNguon\AppExamServer\AppExamServer\obj\Debug\AppExamServer.exe
+H:\Study at school\Lập trình mạng\NguyenLeDongHung_18DH110943\MaNguon\AppExamServer\AppExamServer\obj\Debug\AppExamServer.pdb
